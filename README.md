@@ -1,7 +1,5 @@
 # JS-Calculator
 
-# Calculator
-
 This is the Calculator Assignment
 # 
 
