@@ -1,0 +1,109 @@
+@import url('https://fonts.googleapis.com/css2?family=Ubuntu&display=swap');
+
+* {
+    font-family: Poppins, sans-serif;
+}
+
+#mainSection {
+    width: 100vw;
+    height: 100vh;
+    background: url("../img/background2.jpg");
+    background-position: center;
+    background-size: cover;
+}
+
+#calculator-section {
+    width: 575px;
+    border: 2px solid black;
+    /*opacity: 82%;*/
+    opacity: 85%;
+    /*background: rgb(132, 124, 124);*/
+    background: #000000;
+}
+
+#firstSection {
+    height: 98px;
+}
+
+#secondSection {
+    height: 452px;
+    margin-bottom: 9px !important;
+}
+
+#btn-0 {
+    width: 53px;
+    height: 53px;
+    opacity: 100% !important;
+    background: #A8A8A8;
+    color: black !important;
+    transition: all 1s;
+}
+
+#btn-0:hover {
+    background: #ece7e7;
+    transition: all .5s;
+}
+
+#btn-0:active {
+    transform: translateY(-8px);
+    transition: all .2s;
+}
+
+#input-field {
+    width: 465px;
+    height: 52px;
+    color: white;
+    background: none;
+    font-size: 29px;
+    text-align: right;
+    border: 3px solid black;
+    background: rgb(45, 40, 40);
+    opacity: 93%;
+}
+
+#secondSection > section button {
+    font-size: 34px;
+    width: 100%;
+    height: 100%;
+    font-weight: bold;
+    /*background-color: #b8b2b2;*/
+    /*background-color: #d5d5d5;*/
+    /*background-color: #4c4b4b;*/
+    background-color: #514f4f;
+    color: white;
+}
+
+#secondSection > section {
+    gap: 4px;
+    height: 24% !important;
+}
+
+.yellow_buttons {
+    /*background-color: #FF9601!important;*/
+    background-color: #FE9700 !important;
+}
+
+#secondSection > section button:hover {
+    background-color: #93928f;
+    transition: all 0.8s ease;
+    transform: scale(0.95);
+    box-shadow: 1px 1px 54px 1px rgba(0, 0, 0, 0.22);
+}
+
+.yellow_buttons:hover {
+    background-color: #f5aa3d !important;
+}
+
+#secondSection > section button:active {
+    transform: translateY(-8px);
+    transition: all .2s;
+}
+
+.btn-operators {
+    font-size: 45px !important;
+}
+
+.btn-operators:focus {
+    background-color: white !important;
+    color: #FE9700 !important;
+}

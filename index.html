@@ -1,0 +1,123 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Calculator</title>
+    <link rel="icon" href="assets/img/Calculator.png">
+    <!-- Custom CSS file for CSS -->
+    <link rel="stylesheet" href="assets/styles/style.css">
+    <!-- normalize CSS File -->
+    <!--    <link rel="stylesheet" href="assets/styles/normalize.css">-->
+    <!-- Bootstrap for CSS -->
+    <link rel="stylesheet" href="assets/css/bootstrap.min.css">
+    <!-- Fontawesome -->
+    <link rel="stylesheet" href="../../../assets/fonts/css/all.min.css">
+</head>
+<body>
+<main id="mainSection" class="d-flex justify-content-center align-items-center container-fluid">
+    <!-- Calculator Body -->
+    <section id="calculator-section" class="d-flex flex-column h-75 rounded-2 shadow-lg">
+        <!-- First Section -->
+        <section id="firstSection" class="d-flex justify-content-around align-items-center flex-shrink-0">
+            <div>
+                <button id="btn-0" type="button"
+                        class="btn rounded-0 text-white fw-bold fs-3">C
+                </button>
+            </div>
+            <div>
+                <input disabled type="text" class="form-control shadow fw-semibold" id="input-field">
+            </div>
+        </section>
+
+        <!-- Second Section -->
+        <section id="secondSection" class="row m-0">
+            <!-- First set of buttons -->
+            <section class="col-12 d-flex h-25">
+                <div class="col-3 d-flex align-items-center justify-content-center flex-shrink-1">
+                    <button id="btn-1" class="shadow rounded-2 btn-values">7</button>
+                </div>
+
+                <div class="col-3 d-flex align-items-center justify-content-center flex-shrink-1">
+                    <button id="btn-2" class="rounded-2 btn-values">8</button>
+                </div>
+
+                <div class="col-3 d-flex align-items-center justify-content-center flex-shrink-1">
+                    <button id="btn-3" class="rounded-2 btn-values">9</button>
+                </div>
+
+                <div class="col-3 d-flex align-items-center justify-content-center flex-shrink-1">
+                    <button id="btn-4" class="btn-operators rounded-2 yellow_buttons">+</button>
+                </div>
+            </section>
+
+            <!-- Second set of buttons -->
+            <section class="col-12 h-25 d-flex">
+                <div class="col-3 d-flex align-items-center justify-content-center flex-shrink-1">
+                    <button id="btn-5" class="rounded-2 btn-values">4</button>
+                </div>
+
+                <div class="col-3 d-flex align-items-center justify-content-center flex-shrink-1">
+                    <button id="btn-6" class="rounded-2 btn-values">5</button>
+                </div>
+
+                <div class="col-3 d-flex align-items-center justify-content-center flex-shrink-1">
+                    <button id="btn-7" class="rounded-2 btn-values">6</button>
+                </div>
+
+                <div class="col-3 d-flex align-items-center justify-content-center flex-shrink-1">
+                    <button id="btn-8" class="btn-operators rounded-2 yellow_buttons">-</button>
+                </div>
+            </section>
+
+            <!-- Third set of buttons -->
+            <section class="col-12 h-25 d-flex">
+                <div class="col-3 d-flex align-items-center justify-content-center flex-shrink-1">
+                    <button id="btn-9" class="rounded-2 btn-values">1</button>
+                </div>
+
+                <div class="col-3 d-flex align-items-center justify-content-center flex-shrink-1">
+                    <button id="btn-10" class="rounded-2 btn-values">2</button>
+                </div>
+
+                <div class="col-3 d-flex align-items-center justify-content-center flex-shrink-1">
+                    <button id="btn-11" class="rounded-2 btn-values">3</button>
+                </div>
+
+                <div class="col-3 d-flex align-items-center justify-content-center flex-shrink-1">
+                    <button id="btn-12" class="btn-operators rounded-2 yellow_buttons">/
+                    </button>
+                </div>
+            </section>
+
+            <!-- Fourth set of buttons -->
+            <section class="col-12 h-25 d-flex">
+                <div class="col-3 d-flex align-items-center justify-content-center flex-shrink-1">
+                    <button id="btn-13" class="rounded-2 btn-values">0</button>
+                </div>
+
+                <div class="col-3 d-flex align-items-center justify-content-center flex-shrink-1">
+                    <button id="btn-14" class="rounded-2 btn-values">.</button>
+                </div>
+
+                <div class="col-3 d-flex align-items-center justify-content-center flex-shrink-1">
+                    <button id="btn-15" class="rounded-2 yellow_buttons">=</button>
+                </div>
+
+                <div class="col-3 d-flex align-items-center justify-content-center flex-shrink-1">
+                    <button id="btn-16" class="btn-operators rounded-2 yellow_buttons">*</button>
+                </div>
+            </section>
+        </section>
+    </section>
+</main>
+
+<!-- Bootstrap for JS -->
+<script src="assets/js/bootstrap.min.js"></script>
+
+<!-- jQuery for JS -->
+<script src="assets/js/jquery-3.6.1.min.js"></script>
+
+<!-- Custom JS Script for JS -->
+<script src="assets/js/script.js"></script>
+</body>
+</html>
