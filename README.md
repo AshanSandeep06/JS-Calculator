@@ -72,7 +72,7 @@ git clone https://github.com/AshanSandeep06/JS-Calculator
 
 
 <h4 align="center">
-𝚃𝚑𝚊𝚗𝚔 𝚈𝚘𝚞 𝙵𝚘𝚛 𝚟𝚒𝚜𝚝𝚒𝚗𝚐 𝙼𝚢 𝙿𝚎𝚛𝚜𝚘𝚗𝚊𝚕 𝚆𝚎𝚋𝚜𝚒𝚝𝚎 🤝
+𝚃𝚑𝚊𝚗𝚔 𝚈𝚘𝚞 𝙵𝚘𝚛 𝚟𝚒𝚜𝚝𝚒𝚗𝚐 𝙼𝚢 𝚁𝚎𝚙𝚘𝚜𝚒𝚝𝚘𝚛𝚢 🤝
 𝙷𝚊𝚟𝚎 𝚊 𝚠𝚘𝚗𝚍𝚎𝚛𝚏𝚞𝚕 𝚊𝚗𝚍 𝚐𝚛𝚎𝚊𝚝 𝚍𝚊𝚢 ! 
 
 <img src="https://github.com/Mindula-Dilthushan/Mindula-Dilthushan/blob/master/assets/hi.gif" width="30px">
