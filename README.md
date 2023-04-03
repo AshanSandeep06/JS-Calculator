@@ -23,7 +23,7 @@ git clone https://github.com/AshanSandeep06/JS-Calculator
 ###
 
 ### License 📝
-[![GitHub license](https://img.shields.io/github/license/AshanSandeep06/JS-Calculator?&labelColor=black&color=3867d6&style=for-the-badge)](https://github.com/AshanSandeep06/My-Portfolio/blob/master/License.md)
+[![GitHub license](https://img.shields.io/github/license/AshanSandeep06/JS-Calculator?&labelColor=black&color=3867d6&style=for-the-badge)](https://github.com/AshanSandeep06/JS-Calculator/blob/master/License.md)
 
 <br>
 
