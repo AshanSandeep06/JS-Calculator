@@ -1,6 +1,6 @@
 # JS-Calculator
 
-This is the Calculator Assignment
+<img src="assets/img/ss-01.png">
 # 
 
 * GitHub Page : <a href="https://ashansandeep06.github.io/JS-Calculator/" target="_blank">https://ashansandeep06.github.io/JS-Calculator</a>
